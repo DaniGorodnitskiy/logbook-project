@@ -57,7 +57,5 @@ This Excel VBA Logbook is designed to help manage and record tasks for each shif
 
 ## Demo & Screenshots
 
-*(Here you could include or link to screenshots showing the main sheet, how tasks appear, and a sample of the DB sheet if you wish.)*
-
----
+![image](https://github.com/user-attachments/assets/e9f69684-4b91-49ed-9a07-eae76a06b92b)
 

@@ -61,12 +61,3 @@ This Excel VBA Logbook is designed to help manage and record tasks for each shif
 
 ---
 
-## Contributing
-
-Pull requests are welcome if you want to enhance or fix any logic. For major changes, please open an issue first to discuss.
-
----
-
-## License
-
-*(Choose a license you prefer, e.g. MIT, or omit if you don’t need a license.)*

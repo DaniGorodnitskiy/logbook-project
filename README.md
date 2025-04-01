@@ -27,8 +27,12 @@ This Excel VBA Logbook is designed to help manage and record tasks for each shif
    - **Block6**: G21..G33 → columns BI..BU  
    - **Block7**: B6..B14  → columns BV..CD  (checkboxes for E10..E18)  
    - **Block8**: C6..C14  → columns CE..CM  (checkboxes for G10..G18)
+    
+6. **Advanced Features**
+   - **Tasks** – This sheet holds default tasks for each shift (e.g., rows A2..A10 for morning). When you select a shift on the Main sheet, those tasks auto-load into D10..D18 or F10..F18.
+   - **Planned Works** – Here you can add planned tasks/events. Simply fill in the table with the date, and the built-in calendar automatically displays it on the relevant day.
 
-6. **CreateYesterdayStaticCopy** (optional)  
+7. **CreateYesterdayStaticCopy** (optional)  
    A utility macro that creates a static copy of the workbook (e.g., for archiving).
 
 ---
